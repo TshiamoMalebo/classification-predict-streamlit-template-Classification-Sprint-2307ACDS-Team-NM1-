@@ -59,7 +59,7 @@ To do this, follow the steps below by running the given commands within a Git ba
  2. Clone the *forked* repo to your local machine.
 
  ```bash
- git clone https://github.com/{your-account-name}/classification-predict-streamlit-template.git
+ git clone https://github.com/TshiamoMalebo/classification-predict-streamlit-template.git
  ```  
 
  3. Navigate to the base of the cloned repo, and start the Streamlit app.
